@@ -1,4 +1,4 @@
-# dashbord-on-sales-profits-customer-targeting
+# Dashbord-on-sales-profits-customer-targeting (Tableau)
 We analyzed financial and usage data of a fitness app to support management decisions and efficiency improvements. 
 Our dashboard focuses on sales, profits, and customer retention, highlighting 5 KPIs: performance, app usage trends, peak profitability periods, top-selling equipment, and the most popular exercise.
 
